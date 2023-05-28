@@ -1,0 +1,263 @@
+body {
+    margin: 0;
+    font-family: Montserrat;
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    color: #101010;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 400;
+    margin-right: 50px;
+}
+
+a {
+    color: #101010;
+    text-decoration: none;
+    color: #A52424;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.header-greating {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-greating-photo {
+    width: 674px;
+    height: 676px;
+}
+
+h1 {
+    font-size: 72px;
+    line-height: 88px;
+    font-family: ;
+    margin-bottom: 0px;
+    padding-top: 50px;
+}
+
+p {
+    font-size: 22px;
+    line-height: 140%;
+    font-weight: 600;
+}
+
+.button {
+    color: #A52424;
+    height: 60px;
+    background-color: white;
+    border: 1px solid#A52424;
+    margin-top: 30px;
+}
+
+h2 {
+    font-size: 64px;
+    margin-bottom: 0;
+}
+
+#foto1 {
+    background: #FFFFFF;
+    box-shadow: 0px 6px 10px 3px rgba(0, 0, 0, 0.05);
+    width: 343px;
+    height: 500px;
+}
+
+#foto2 {
+    position: absolute;
+    top: 930px;
+    left: 167px;
+}
+
+
+.name {
+    color: #A52424;
+    text-align: center;
+    font-size: 22px;
+    padding-top: 420px;
+
+}
+
+span {
+    font-size: 18px;
+}
+
+.about-me-photo {
+    width: 400px;
+}
+
+.about-me-description {
+    display: flex;
+    justify-content: space-between;
+}
+
+.about-me-acquaintance {
+    width: 674px;
+    margin-left: auto;
+}
+
+h3 {
+    color: #A52424;
+    font-size: 22px;
+}
+
+.card {
+    display: flex;
+    justify-content: space-between;
+    height: 800px;
+}
+
+h4 {
+    font-size: 22px;
+    font-weight: 600;
+    line-height: 140%;
+}
+
+.item {
+    background-image: url(images/IMG_0194\ 1.jpg);
+    width: 370px;
+    height: 560px;
+    padding-top: 550px;
+    background-repeat: no-repeat;
+
+}
+
+.item2 {
+    background-image: url(images/IMG_0190\ 1.jpg);
+    width: 370px;
+    height: 560px;
+    padding-top: 550px;
+    background-repeat: no-repeat;
+}
+
+.item3 {
+    background-image: url(images/IMG_0198\ 1.jpg);
+    width: 370px;
+    height: 560px;
+    padding-top: 550px;
+    background-repeat: no-repeat;
+}
+
+.btn {
+    color: #A52424;
+    background-color: white;
+    border: 1px solid #A52424;
+    width: 200px;
+    height: 60px;
+    margin-top: 15px;
+}
+
+li {
+    list-style-type: none;
+    font-size: 18px;
+}
+
+.table-time {
+    display: flex;
+    justify-content: space-around;
+    margin-left: -58px;
+    margin-top: -26px;
+}
+
+.price-list {
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+}
+
+.list_1 {
+    background-image: url(images/IMG_1122\ 2.jpg);
+    background-repeat: no-repeat;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.price_text {
+    padding-top: 300px;
+    padding-left: 50px;
+}
+
+.buy {
+    font-size: 36px;
+    color: #A52424;
+    display: flex;
+    align-items: center;
+}
+
+.btn-buy {
+    width: 249px;
+    height: 60px;
+    color: #A52424;
+    background-color: white;
+    border: 3px solid #A52424;
+    margin-left: 30px;
+}
+
+.list_2 {
+    background-image: url(images/img_2022.jpg);
+    background-repeat: no-repeat;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7px;
+}
+
+.page {
+    display: flex;
+    justify-content: space-around;
+}
+
+.image {
+    margin-top: 50px;
+}
+
+.image2 {
+    margin-left: -119px;
+}
+
+.letter-text {
+    width: 330px;
+}
+
+.submit {
+    width: 340px;
+    height: 40px;
+    color: #A52424;
+    background-color: white;
+    border: 2px solid #A52424;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.icon {
+    display: flex;
+    justify-content: space-between;
+    width: 190px;
+    margin-left: 50px;
+}
+
+.number {
+    color: #A52424;
+    font-size: 22px;
+    margin-right: 50px;
+}
+
+.logo {
+    margin-left: 60px;
+}
